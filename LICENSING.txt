@@ -1,0 +1,4 @@
+File dodatak/gn.m is licensed under the Non-Profit Open Software License 3.0.
+Everything else in this project is licensed under the Expat MIT License.
+If a copyright notice is needed, the following is sufficient:
+Copyright (c) 2023 Andrija Stamenković
