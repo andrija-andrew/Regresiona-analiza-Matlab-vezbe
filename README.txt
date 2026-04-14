@@ -26,7 +26,7 @@ za prvu verziju, i
 anovan(yield, {fert, dens}, 'model', 'interaction');
 za drugu. Alternativno, oba zadatka mogu da se provere pomoću one-hot encoding-a za svaku nezavisnu promenljivu
 i linearne regresije (sa odsečkom) gde se (ako je potrebno) interakcija između dve promenljive modelira kao konjukcija,
-odnosno proizvod, svih kombinacija parova one-hot encoding-a te dve promenljive. U tom slučaju se za testiranje hipoteza
+odnosno proizvod, svih parova kombinacija one-hot encoding-a te dve promenljive. U tom slučaju se za testiranje hipoteza
 koristi F-test za celu grupu onih one-hot encoding promenljivih koje su dobijene na osnovu jedne nezavisne promenljive
 (gde se interakcija između dve nezavisne promenljive posmatra kao zasebna nezavisna promenljiva).
 
